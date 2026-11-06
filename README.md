@@ -8,7 +8,6 @@ Replace these placeholders in the HTML files:
 
 - `YOUR_CONTACT_EMAIL`
 - `YOUR_NAME_OR_BUSINESS_NAME`
-- `YYYY-MM-DD`
 
 After the custom domain is known, add a `CNAME` file containing only the full hostname, for example:
 
