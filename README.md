@@ -2,18 +2,9 @@
 
 Static public pages for the Google OAuth consent screen used by the owner's private Hermes Google integration.
 
-## Customize before publishing
+## Custom domain
 
-Replace these placeholders in the HTML files:
-
-- `YOUR_CONTACT_EMAIL`
-- `YOUR_NAME_OR_BUSINESS_NAME`
-
-After the custom domain is known, add a `CNAME` file containing only the full hostname, for example:
-
-```text
-oauth.example.com
-```
+The `CNAME` file contains the GitHub Pages custom hostname.
 
 ## GitHub Pages
 
